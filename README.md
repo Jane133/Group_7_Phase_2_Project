@@ -1,5 +1,5 @@
  UNDERSTANDING YOUR HOME VALUE
-![image](https://github.com/magdaondimu/Goup7_Project_Phase2/assets/151352429/bfa8aa00-72ab-4f5f-bc1a-c79d2807f721)
+ ![image](https://github.com/Jane133/Group_7_Phase_2_Project/assets/144534856/ecadae7a-23f3-4245-870a-83b299074a73)
 Authors: Jane Martha, James Njoroge, Leon Maina, Daniel Wahome, Magdalene Ondimu, Faith Mwenda.
 # Overview
 Your home's value is influenced by various factors such as size, location, condition, and amenities. Our analysis aims to uncover the key drivers of house prices to help you make informed decisions.
